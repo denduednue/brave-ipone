@@ -1,4 +1,4 @@
-# Changelog
+# Changelog yay
 
 ## [1.62.2](https://github.com/brave/brave-ios/releases/tag/v1.62.2)
 
